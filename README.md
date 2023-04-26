@@ -6,10 +6,10 @@ We will be using numpy to analyze the data and matplotlib to visualize the data.
 
 # Instructions for running: 
 
-•Jupyter notebook 
+• Jupyter notebook 
 
-•pandas 
+• pandas 
 
-•numpy
+• numpy
 
-•matplotlib
+• matplotlib
